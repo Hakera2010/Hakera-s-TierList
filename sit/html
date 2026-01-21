@@ -399,47 +399,47 @@
 
 <div class="mode-buttons">
 <button class="mode-btn active" data-mode="Overall">
-  <img src="Images/icons/16982661-nouveauprojet_xl.webp" class="btn-icon">
+  <img src="16982661-nouveauprojet_xl.webp" class="btn-icon">
   Overall
 </button>
 
 <button class="mode-btn" data-mode="Sword">
-  <img src="Images/icons/Diamond_Sword.ico" class="btn-icon">
+  <img src="Diamond_Sword.ico" class="btn-icon">
   Sword
 </button>
 
 <button class="mode-btn" data-mode="Axe">
-  <img src="Images/icons/Diamod_Axe.ico" class="btn-icon">
+  <img src="Diamod_Axe.ico" class="btn-icon">
   Axe
 </button>
 
 <button class="mode-btn" data-mode="Mace">
-  <img src="Images/icons/Mace.webp" class="btn-icon">
+  <img src="Mace.webp" class="btn-icon">
   Mace
 </button>
 
 <button class="mode-btn" data-mode="UHC">
-  <img src="Images/icons/Golden_apple_JE2_BE2.png" class="btn-icon">
+  <img src="Golden_apple_JE2_BE2.png" class="btn-icon">
   UHC
 </button>
 
 <button class="mode-btn" data-mode="NetherOP">
-  <img src="Images/icons/93605ae4b1596a2.png" class="btn-icon">
+  <img src="93605ae4b1596a2.png" class="btn-icon">
   NetherOP
 </button>
 
 <button class="mode-btn" data-mode="POT">
-  <img src="Images/icons/Potion_of_Fire_Resistance_JE3.webp" class="btn-icon">
+  <img src="Potion_of_Fire_Resistance_JE3.webp" class="btn-icon">
   POT
 </button>
 
 <button class="mode-btn" data-mode="SMP">
-  <img src="Images/icons/Ender_Pearl_JE3_BE2.png" class="btn-icon">
+  <img src="Ender_Pearl_JE3_BE2.png" class="btn-icon">
   SMP
 </button>
 
 <button class="mode-btn" data-mode="Vanilla">
-  <img src="Images/icons/End_Crystal_(item)_JE2_BE2.png" class="btn-icon">
+  <img src="End_Crystal_(item)_JE2_BE2.png" class="btn-icon">
   Vanilla
 </button>
 
@@ -861,3 +861,4 @@ function closeProfile() {
 
 </body>
 </html>
+
